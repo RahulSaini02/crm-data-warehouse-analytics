@@ -1,0 +1,14 @@
+# DotEnv configuration
+.env
+
+# Database
+*.db
+*.rdb
+
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Mac OS-specific storage files
+.DS_Store
